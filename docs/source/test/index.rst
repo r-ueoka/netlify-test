@@ -5,6 +5,8 @@ Test Page
 Netlify redirect test
 ================================
 
+kitai
+
 爆笑レベル。
 
 しゅごい
