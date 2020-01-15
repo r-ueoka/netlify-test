@@ -8,3 +8,5 @@ Sphinx on Netlify
 爆笑レベル。
 
 しゅごい
+
+:uoooooo:
