@@ -1,7 +1,7 @@
 [build]
   base    = "docs"
   publish = "/build"
-  command = "sphinx-build source build"
+  command = "sphinx-build source build/docs/"
 
 [[redirects]]
   from = "/docs/*"
