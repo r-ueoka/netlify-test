@@ -1,2 +1,2 @@
-docs/build
-!_redirects
+docs/build/
+!./docs/build/_redirects
