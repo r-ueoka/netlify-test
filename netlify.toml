@@ -4,7 +4,7 @@
   command = "sphinx-build source build/docs/"
 
 [[redirects]]
-  from = "/*"
-  to  = "https://0koara0.github.io/webDesign/:splat"
+  from = "/"
+  to  = "https://0koara0.github.io/webDesign/"
   status = 200
   force = false
