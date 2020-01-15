@@ -1,1 +1,2 @@
-/test       /    200
+/docs/*         /docs/:splat                                    200
+/*              https://0koara0.github.io/webDesign/:splat      200
